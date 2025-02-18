@@ -17,3 +17,6 @@ I'm a Bioinformatician-Computational Biologist who specialises in long-read tran
 - [docker](https://hub.docker.com/r/number25/)
 - [quay](https://quay.io/user/number_25/)
 
+# 🌐 Publicly Hosted Data
+## figshare 
+- [jaffal fusion gene detection reference build hg38 gencode v37](https://figshare.com/articles/dataset/Jaffa_hg38_gencode37_reference/27673314)
