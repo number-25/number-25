@@ -1,5 +1,4 @@
-# Computational Biologist: Dean Bašić
-
+# Computational Biologist
 <!-- 
 **number-25/number-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Bioinfor-matician/magician - - 💡 Learning SQL, and single-cell sequencing analysis  
 
