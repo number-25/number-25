@@ -3,7 +3,7 @@
 **number-25/number-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Bioinfor-matician/magician - - 💡 Learning SQL, and single-cell sequencing analysis  
 
 -->
-<img align="right" width="170" height="170" src="https://github.com/number-25/ComputationalBiology-for-Autodidacts/blob/main/Cheatsheets/dp_dean_git_400x400.jpg">     '
+<img align="right" width="170" height="170" src="https://github.com/number-25/ComputationalBiology-for-Autodidacts/blob/main/Cheatsheets/dp_dean_git_400x400.jpg">     
 I'm a Computational Biologist who specialises in long-read transcriptomics analyses and genome annotation. I like to learn from the field of Data Science so I'm often dabbling in small projects of that nature. You can reach me at deancompbio@pm.me. This is what I'm currently up to:  
 - 🚦 Nanopore directRNA and cDNA [nextflow workflow](https://github.com/number-25/rich_directRNA) which maximizes transcript reconstruction options and prioritises annotation quality.
 - 🧬 Low-frequency pseudogene detection using ~400 long-read Oxford Nanopore datasets. 
