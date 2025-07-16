@@ -25,3 +25,4 @@ This is what I'm currently up to:
 # 🌐 Publicly Hosted Data
 ## figshare 
 - [jaffal fusion gene detection reference build hg38 gencode v37](https://figshare.com/articles/dataset/Jaffa_hg38_gencode37_reference/27673314)
+- [sqanti3 reference annotations hg38](https://figshare.com/articles/dataset/SQANTI3_reference_annotations_-_human/28537373)
