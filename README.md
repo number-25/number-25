@@ -10,7 +10,7 @@ I'm a Computational Biologist who specialises in long-read transcriptomics analy
 
 Some of what I'm currently up to:  
 
-- <!--🚦--> Nanopore directRNA and cDNA [nextflow workflow](https://github.com/number-25/rich_directRNA) which maximizes transcript reconstruction options and prioritises annotation quality.
+- Nanopore directRNA and cDNA [nextflow workflow](https://github.com/number-25/rich_directRNA) which maximizes transcript reconstruction options and prioritises annotation quality.
 <!-- 🧬 Low-frequency pseudogene detection using ~400 long-read Oxford Nanopore datasets. -->
 <!-- - 🧞 Building an MVC app in Julia using [Genie.jl](https://github.com/GenieFramework/Genie.jl)  -->
 
