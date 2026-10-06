@@ -4,16 +4,18 @@
 
 <img align="right" width="170" height="170" src="https://github.com/number-25/ComputationalBiology-for-Autodidacts/blob/main/Cheatsheets/dp_dean_git_400x400.jpg">  
 -->
-I'm a Computational Biologist well-versed in long-read transcriptomics analyses and genome annotation. I like to learn from the field of Data Science so I'm often dabbling in small projects of that nature. 
+I'm a Computational Biologist well-versed in long-read transcriptomics analyses and genome annotation. 
+
+<!-- I like to learn from the field of Data Science so I'm often dabbling in small projects of that nature. -->
 
 
 <!--You can reach me at **deancompbio@pm.me**.-->
 
-Some of what I'm currently up to:  
+<!-- Some of what I'm currently up to:  
 
-- Nanopore transcriptomics [nextflow workflow](https://github.com/number-25/rich_directRNA) which maximizes transcript reconstruction options and prioritises annotation quality.
+- Nanopore transcriptomics [nextflow workflow](https://github.com/number-25/rich_directRNA) which maximizes transcript reconstruction options and prioritises annotation quality. -->
 <!-- 🧬 Low-frequency pseudogene detection using ~400 long-read Oxford Nanopore datasets. -->
-<!-- - 🧞 Building an MVC app in Julia using [Genie.jl](https://github.com/GenieFramework/Genie.jl)  -->
+<!-- - 🧞 Building an MVC app in Julia using [Genie.jl](https://github.com/GenieFramework/Genie.jl)  --> 
 
 
 <!--# Toolkit
